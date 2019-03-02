@@ -1,1 +1,1 @@
-# BigGAN
+# BigGAN module on TF-Hub
